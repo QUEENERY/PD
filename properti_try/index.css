@@ -1,0 +1,10 @@
+img{
+    border-radius: 50px;
+    border-color: rgb(14, 17, 241);
+}
+html, body{
+    background-color: rgb(50, 143, 224);
+}
+.form-control{
+    border-color: rgb(0, 16, 236);
+}

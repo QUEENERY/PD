@@ -1,0 +1,15 @@
+html, body{
+    background-color: rgb(1, 11, 56);
+}
+.isi{
+    color: rgb(255, 255, 255);
+}
+.footer{
+    color: rgb(255, 255, 255);
+}
+.paket{
+    border-radius: 5px;
+}
+img{
+    border-radius: 20px;
+}
